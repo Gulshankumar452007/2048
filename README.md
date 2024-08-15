@@ -27,7 +27,9 @@ A simple implementation of the 2048 game using HTML, CSS, and JavaScript. The ga
 ## File Structure
 
 1.**index.html**: Contains the HTML structure, embedded CSS, and JavaScript for the game.
+
 2.**style.css**: (Embedded) CSS for styling the game board and tiles.
+
 3.**script.js**: (Embedded) JavaScript for game logic and tile movement.
 
 
